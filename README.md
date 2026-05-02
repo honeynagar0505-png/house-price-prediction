@@ -112,6 +112,9 @@ Output:
 
 ```
 Predicted Price ≈ XX,XX,XXX
+
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/3711f2a6-9434-45be-aae0-2ffdfa5d574b" />
+
 ```
 
 ---
